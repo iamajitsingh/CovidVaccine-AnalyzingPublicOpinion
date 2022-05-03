@@ -1,5 +1,5 @@
 # CovidVaccine-AnalyzingPublicOpinon
-<div style="text-align: right"> A comprehensive quantitive analytic study of evolving public opinion of the COVID-19 vaccines on Twitter</div>
+<div style="text-align: right"> A comprehensive quantitative analytic study of evolving public opinion of the COVID-19 vaccines on Twitter</div>
 
 ![Photo from Unsplash](https://images.unsplash.com/photo-1551817958-20204d6ab212?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
